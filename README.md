@@ -4,9 +4,6 @@
 This repository contains programs written for the higher-level programming and
 algorithm section.
 
-![This is an image](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/231/48a9fdbd67c84a328a9df9ec8d93b9ac2458ac37721d7d53e51a27fb2bdc5263.jpg)
-
-
 
 ## Structure
 
@@ -31,3 +28,4 @@ algorithm section.
 * [0x0F. Python - Object-relational mapping](./0x0F-python-object_relational_mapping/)
 * [0x12. JavaScript - Warm up](./0x12-javascript-warm_up)
 * [0x13. JavaScript - Objects, Scopes and Closures](./0x13-javascript_objects_scopes_closures)
+* [0x15. JavaScript - Web jQuery](./0x15-javascript-web_jquery)
